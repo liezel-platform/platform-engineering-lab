@@ -1,7 +1,7 @@
 services:
 
   kafka-1:
-    image: confluentinc/cp-kafka:7.9.8
+    image: confluentinc/cp-kafka:7.8.1
     container_name: kafka-1
     hostname: kafka-1
 
@@ -34,7 +34,7 @@ services:
 
 
   kafka-2:
-    image: confluentinc/cp-kafka:7.9.8
+    image: confluentinc/cp-kafka:7.8.1
     container_name: kafka-2
     hostname: kafka-2
 

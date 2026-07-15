@@ -1,0 +1,8 @@
+ClusterId:              MkU3OEVBNTcwNTJENDM2Qk
+LeaderId:               1
+LeaderEpoch:            5228
+HighWatermark:          35306
+MaxFollowerLag:         0
+MaxFollowerLagTimeMs:   0
+CurrentVoters:          [1,2]
+CurrentObservers:       []
